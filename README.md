@@ -30,3 +30,8 @@ A terminal file manager for Linux made in C++.
   * Allow users to customize the look and feel of the explorer.
 - Adjustable Layouts:
   * Users can choose how information is displayed, including customizable column options for detailed views.
+
+
+## Installation:
+- `sudo apt-get install libncurses5-dev`
+
