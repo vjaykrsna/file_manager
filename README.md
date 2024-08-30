@@ -1,5 +1,6 @@
 # file_manager
 A terminal file manager for Linux made in C++.
+## Check out my ongoing Flutter project [[HERE]](https://www.github.com/vjaykrsna/product-listing-app)
 
 ## Core Features
 
