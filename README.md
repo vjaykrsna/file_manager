@@ -33,5 +33,6 @@ A terminal file manager for Linux made in C++.
 
 
 ## Installation:
+# Run this if you face issues regarding libncurses....
 - `sudo apt-get install libncurses5-dev`
 
