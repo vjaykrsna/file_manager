@@ -1,6 +1,5 @@
 # file_manager
 A terminal file manager for Linux made in C++.
-## Check out my ongoing Flutter project [[HERE]](https://www.github.com/vjaykrsna/product-listing-app)
 
 ## Core Features
 
@@ -14,7 +13,7 @@ A terminal file manager for Linux made in C++.
 - Search Functionality:
   * Quick search and advanced search options including filters by file type, size, date modified, etc.
 
-### 2. Navigation: (To-Do)
+### 2. Navigation:
 - Breadcrumb Navigation Bar:
   * For easy path tracking and navigation.
 - Back and Forward Buttons:
@@ -22,11 +21,11 @@ A terminal file manager for Linux made in C++.
 - Tree View:
   * Sidebar showing a hierarchical directory structure.
 
-### 3. File Previews: (Future Planing)
+### 3. File Previews:
 - Quick Look:
   * Ability to preview files (e.g., images, documents, videos) within the explorer without opening them in a separate application.
 
-### 4. Customization Options: (To-Do)
+### 4. Customization Options:
 - Themes and Skins:
   * Allow users to customize the look and feel of the explorer.
 - Adjustable Layouts:
@@ -34,6 +33,5 @@ A terminal file manager for Linux made in C++.
 
 
 ## Installation:
-### Run this if you face issues regarding libncurses....
 - `sudo apt-get install libncurses5-dev`
 
